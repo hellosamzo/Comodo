@@ -1,0 +1,14 @@
+{
+  "name": "podcastmanager",
+  "version": "1.0.0",
+  "description": "podcast manager",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sam M",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.7"
+  }
+}
